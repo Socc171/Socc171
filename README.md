@@ -1,17 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Socc171
 
-<!--
-**Socc171/Socc171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning GitHub, coding and building projects
+- 💻 I love web development and open source
+- ⚡ Fun fact: I enjoy turning ideas into real projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snake gif](https://raw.githubusercontent.com/Socc171/Socc171/output/github-contribution-grid-snake-dark.svg)
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Socc171/Socc171/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Socc171&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Socc171&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- JavaScript / TypeScript
+- React
+- Git & GitHub workflow
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Socc171
