@@ -1,2 +1,5 @@
-## Hi there!
-(https://raw.githubusercontent.com/Socc171/Socc171/output/github-contribution-grid-snake-dark.svg)
+# 👋 Hi there
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Socc171/Socc171/output/github-contribution-grid-snake-dark.svg" />
+</p>
